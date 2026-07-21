@@ -8,6 +8,11 @@ This repository demonstrates how computer vision and deep learning can be combin
 
 The main goal of this project is to turn hand gestures into recognized ASL symbols using a lightweight and efficient pipeline that can run in real time on a standard laptop or desktop computer.
 
+## Demo
+
+<img width="788" height="624" alt="Untitled" src="https://github.com/user-attachments/assets/4a914ee0-1cab-42cd-938b-8a41499dc0ad" />
+
+
 ## Overview
 
 This repository contains the full workflow for building and running an ASL recognition system:
